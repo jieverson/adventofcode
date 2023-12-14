@@ -1,0 +1,6 @@
+LLRRLRLLRLR
+
+A = (B, B)
+B = (A, C)
+C = (A, Z)
+Z = (Z, Z)
